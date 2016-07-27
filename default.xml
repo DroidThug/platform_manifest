@@ -2,7 +2,7 @@
 <manifest>
 
   <default remote="aosp" 
-           revision="refs/tags/android-6.0.1_r43"
+           revision="refs/tags/android-6.0.1_r54"
            sync-c="true"
            sync-j="4" />
   
